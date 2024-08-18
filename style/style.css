@@ -1,0 +1,24 @@
+.container{
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: grey;
+    padding: 10px 0px 10px  20px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+body{
+    background-color: skyblue;
+}
+
+button{
+    background-color: green;
+    color: white;
+    width: 100px;
+    margin-left: 130px;
+}
+input{
+    margin-bottom: 10px;
+}
+.output { 
+    margin-top: 10px; 
+}
